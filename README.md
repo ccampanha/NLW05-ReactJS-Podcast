@@ -5,10 +5,13 @@ We simulate a Node Server with podcast's episodes. It also work with desktop con
 
 <h2>See the project pages<h2>
 
-<h3>Home</h3>
+<h3>Home - Not Playing</h3>
+<img src=" https://user-images.githubusercontent.com/50628113/116294995-f98de800-a76e-11eb-8d4d-fe4822697521.jpg" width="80%" >
+
+<h3>Home - Playing Episode</h3>
 <img src="https://user-images.githubusercontent.com/50628113/116248410-3c859680-a742-11eb-889d-2e04ba9a4fc9.jpg" width="80%" >
  
- <h3>Episode Example</h3>
+ <h3>Episode Page - Example</h3>
 
 <img src="https://user-images.githubusercontent.com/50628113/116248410-3c859680-a742-11eb-889d-2e04ba9a4fc9.jpg" width="80%" >
 
